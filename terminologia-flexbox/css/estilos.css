@@ -1,0 +1,10 @@
+/* CSS Document */
+.container {
+  display: flex;
+  flex-direction: row-reverse;
+  flex-wrap: wrap; }
+
+.item {
+  width: 200px;
+  background: #0075E6;
+  border: 1px solid #fff; }
