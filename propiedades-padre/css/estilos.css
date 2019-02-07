@@ -1,0 +1,18 @@
+@charset "utf-8";
+/* CSS Document */
+.wrapper{
+    width: 50%;
+    height: 50vh;
+    background-color: steelblue;
+    margin: 2em auto;
+    padding: 1em;
+    border: 1px solid #333;
+    display: flex;
+}
+.item{
+    border: 1px solid #333;
+    font-size: 2em;
+    background-color: deepskyblue;
+    width: 15%;
+    height: 30%;
+}
